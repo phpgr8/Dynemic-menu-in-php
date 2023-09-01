@@ -50,8 +50,7 @@ include_once("function.php");
         <div class="row">
             <div class="col-12 py-4">
                 <h1>Page scroll content</h1>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Praesent tincidunt dolor eget lorem blandit, auctor
+                
             </div>
         </div>
     </div>
